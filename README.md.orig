@@ -1,8 +1,0 @@
-# workflow2
-testing git and workflows: master=develop
-new line
-<<<<<<< HEAD
-new line on master
-=======
-new line on featureBranch
->>>>>>> featureBranch

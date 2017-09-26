@@ -4,3 +4,4 @@ new line
 new line on master
 new line on featureBranch
 new line in readme
+new line
